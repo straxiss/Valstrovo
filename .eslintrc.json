@@ -1,0 +1,12 @@
+{
+    "extends": "@ruffpuff/eslint-config-ruffpuff",
+    "rules": {
+      "prefer-const": "error",
+      "no-redeclare": "off",
+      "no-use-before-define": "off",
+      "no-string-throw": "off",
+      "no-conditional-assignment": "off",
+      "consistent-return": "off"
+    }
+  }
+  
